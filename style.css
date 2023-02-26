@@ -1,0 +1,64 @@
+ body{
+    font-family: serif;
+    background-color:aquamarine;
+ }
+
+ #container{
+    width :300px;
+    height:500px;
+  background-color:whitesmoke ;
+  border-radius :20px;
+  margin:100px  auto; 
+ }
+
+ #header{
+    background-color: black;
+    color:white;
+}
+
+p{
+    padding-left:20px;
+    font-size:16px;
+}
+
+#calculat{
+    width:150px;
+    height:50px;
+    background-color: black;
+    color : whitesmoke;
+    margin : 30px auto;
+    display:block;
+}
+
+#billamount{
+    width:60%;
+    font-size:14px;
+    padding: 5px auto;
+}
+
+
+#services{
+    padding: 5px 20px 5px 30px;
+    margin-left:40px;
+}
+
+#peoples{
+    width: 60%;
+    padding:5px 5px 8px 8px;
+    background-color: white;
+    font-size:14px;
+  margin-left:20px;
+}
+
+#totaltip{
+    text-align:center;
+
+}
+
+#totaltip sup{
+font-size:20px;
+font-weight:bold;
+display:block;
+}
+
+
